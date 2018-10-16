@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="itxjm-web:war">
+    <output-path>$PROJECT_DIR$/itxjm-web/target</output-path>
+    <root id="archive" name="itxjm-web.war">
+      <element id="artifact" artifact-name="itxjm-web:war exploded" />
+    </root>
+  </artifact>
+</component>

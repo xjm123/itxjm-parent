@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itxjm-common/itxjm-common.iml" filepath="$PROJECT_DIR$/itxjm-common/itxjm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itxjm-dao/itxjm-dao.iml" filepath="$PROJECT_DIR$/itxjm-dao/itxjm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itxjm-entity/itxjm-entity.iml" filepath="$PROJECT_DIR$/itxjm-entity/itxjm-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itxjm-parent.iml" filepath="$PROJECT_DIR$/itxjm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itxjm-service/itxjm-service.iml" filepath="$PROJECT_DIR$/itxjm-service/itxjm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itxjm-web/itxjm-web.iml" filepath="$PROJECT_DIR$/itxjm-web/itxjm-web.iml" />
+    </modules>
+  </component>
+</project>
